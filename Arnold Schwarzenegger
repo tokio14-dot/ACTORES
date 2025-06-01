@@ -1,6 +1,16 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg",Terminator 3: La rebelión de las máquinas (2003)
+https://archive.org/download/terminator-3-la-rebelion-de-las-maquinas/Terminator%203%20La%20Rebeli%C3%B3n%20de%20las%20M%C3%A1quinas.mp4
+
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
@@ -36,6 +46,9 @@ https://archive.org/download/peli8_202402/Raw%20Deal%201986.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cA6a4xW76bNZdXZKLCr4YkdpElK.jpg",Comando (1985)
 https://archive.org/download/2-comando-commando-1985/2Comando%20-%20Commando%20%281985%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y4jSWrykjrtfrxuvImpu857Qrxr.jpg",Terminator (1984)
+https://archive.org/download/TheTerminator-1984/The%20Terminator%20%281984%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wAjJj1xamN3iQWentSDhZlFE7Eg.jpg",Cactus Jack (1979)
 https://dl.dropbox.com/scl/fi/a360ri1vwfasii3upbo1t/ja.mp4?rlkey=hwuntm8od9cn0h1fkhwl9r4fy&st=ut81gf0d&dl=0
