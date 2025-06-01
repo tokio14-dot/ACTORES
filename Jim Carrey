@@ -5,7 +5,8 @@
 
 #EXTINF:-1 tvg-logo="",La Máscara (1994)
 
-#EXTINF:-1 tvg-logo="",El tonto y el mas tonto (1994)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJSYzIRoJLqNcMMgy8ErCJjSJf9.jpg",El tonto y el mas tonto (1994)
+https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.mp4
 
 #EXTINF:-1 tvg-logo="",Ace Ventura: Cuando la Naturaleza Llama (1995)
 
@@ -44,9 +45,9 @@ https://archive.org/download/534_20191230/534.mp4
 
 #EXTINF:-1 tvg-logo="",Los Pinguinos de Papa (2011)
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yqmWhV2/kick2.jpg",KICK ASS 2 (2013)
+#EXTINF:-1 tvg-logo="",KICK ASS 2 (2013)
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/trupor/tondopor.png",El tonto y el mas tonto 2
+#EXTINF:-1 tvg-logo="",Dos tontos muy tontos 2
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",Sonic: La Pelicula (2020)
 https://archive.org/download/50-n-1-c/50N1C.mp4
