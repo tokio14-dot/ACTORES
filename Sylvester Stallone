@@ -1,15 +1,18 @@
 
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",Creed III (2023)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/09.-%20CREED%203%282023%29%20%E2%9C
 #EXTINF:-1 tvg-logo="", Rambo 5 (2019)
 
-#EXTINF:-1 tvg-logo="", Creed 2 (2018)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/76L2V05c4e6bWsIkWXz4GFXUYYG.jpg", Creed 2 (2018)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/08.-%20CREED%202%20La%20leyenda%20de%20Rocky%20%282018%29%20%E2%9C%94.mp4
 #EXTINF:-1 tvg-logo="", Galletas para animales (2017)
 
 #EXTINF:-1 tvg-logo="", Ratchet y Clank (2016)
 
-#EXTINF:-1 tvg-logo="", Creed (2015)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/13cA8aW3XuQG2CGWLPS3cMO52MQ.jpg", Creed (2015)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/07.-%20CREED%201%20La%20leyenda%20de%20Rocky%20%282015%29%20%E2%9C%94.mp4
 #EXTINF:-1 tvg-logo="", Los mercenarios 3 (2014)
 
 #EXTINF:-1 tvg-logo="", Combate de fondo (2013)
@@ -22,9 +25,11 @@
 
 #EXTINF:-1 tvg-logo="", Los mercenarios (2010)
 
-#EXTINF:-1 tvg-logo="", Rambo 4 (2008)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qp9Q0JeHQ6JShQPm6KA8euYhWLF.jpg", Rambo 4 (2008)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%204%20%282008%29%20%E2%9C%94.mp4
 
-#EXTINF:-1 tvg-logo="", Rocky Balboa (2006)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8oN30JAimKk2LcLOusSYpGvMPgG.jpg", Rocky Balboa (2006)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/06.-%20ROCKY%20BALBOA%20%282006%29%20%E2%9C%94.mp4
 
 #EXTINF:-1 tvg-logo="", Vengando a Angelo (2002)
 
@@ -42,8 +47,8 @@
 
 #EXTINF:-1 tvg-logo="", El demoledor (1993)
 
-#EXTINF:-1 tvg-logo="", Rocky 5 (1990)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tT8VXIwuG7OKfWAOA1riecPLwMR.jpg", Rocky 5 (1990)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/05.-%20%20ROCKY%205%20%281990%29%20%E2%9C%94.mp4
 #EXTINF:-1 tvg-logo="", Tango y Cash (1989)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jK5R70NEqGEZAmyfI1ZPR5yJTIl.jpg", Encerrado (1989)
@@ -57,16 +62,16 @@ https://dl.dropbox.com/scl/fi/z3h3bud32z22ommrbe4iw/barato.mp4?rlkey=cvxakw4mzt2
 
 #EXTINF:-1 tvg-logo="", Rambo 2 (1985)
 
-#EXTINF:-1 tvg-logo="", Rocky 4 (1985)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2DIEAA0bL0IxHy8Yxi8ShxZUHV2.jpg", Rocky 4 (1985)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/04.-%20%20ROCKY%204%20%281985%29%20%E2%9C%94.mp4
 #EXTINF:-1 tvg-logo="", Acorralado (1982)
 
-#EXTINF:-1 tvg-logo="", Rocky 3 (1982)
-
-#EXTINF:-1 tvg-logo="", Rocky 2 (1979)
-
-#EXTINF:-1 tvg-logo="", Rocky (1976)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Mn0xgB8w9mi2Ifo7WdS8aSgA7V.jpg", Rocky 3 (1982)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/03.-%20%20ROCKY%203%20%281982%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVu5e62TfXv9FFAflMxeZYm2w50.jpg", Rocky 2 (1979)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/02.-%20%20ROCKY%202%20%281979%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8ZIc49i7tS49HY0b1KmxtkiWesi.jpg", Rocky (1976)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/01.-%20ROCKY%201%20%281976%29%20%E2%9C%94.mp4
 
 
 
